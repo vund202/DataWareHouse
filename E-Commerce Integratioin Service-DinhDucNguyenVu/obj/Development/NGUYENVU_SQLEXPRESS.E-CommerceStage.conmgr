@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="NGUYENVU_SQLEXPRESS.E-CommerceStage"
+  DTS:DTSID="{04B78121-8A0E-4F26-AE90-06E0937EA4AB}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=NGUYENVU\SQLEXPRESS;Initial Catalog=E-CommerceStage;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-E-Commerce Integratioin Service-{04B78121-8A0E-4F26-AE90-06E0937EA4AB}NGUYENVU\SQLEXPRESS.E-CommerceStage;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

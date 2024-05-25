@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BAF95C-8974-477E-9670-BFA3C57ECA9C}|E-Commerce Integratioin Service.dtproj|D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\DimensionImport.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{F2BAF95C-8974-477E-9670-BFA3C57ECA9C}|E-Commerce Integratioin Service.dtproj|solutionrelative:DimensionImport.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BAF95C-8974-477E-9670-BFA3C57ECA9C}|E-Commerce Integratioin Service.dtproj|D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\FactImport.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{F2BAF95C-8974-477E-9670-BFA3C57ECA9C}|E-Commerce Integratioin Service.dtproj|solutionrelative:FactImport.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactImport.dtsx [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\FactImport.dtsx",
+              "RelativeDocumentMoniker": "FactImport.dtsx",
+              "ToolTip": "D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\FactImport.dtsx [Design]",
+              "RelativeToolTip": "FactImport.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-09T13:28:14.434Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DimensionImport.dtsx [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\DimensionImport.dtsx",
+              "RelativeDocumentMoniker": "DimensionImport.dtsx",
+              "ToolTip": "D:\\N\u0103m 3\\Hk2\\Kho d\u1EEF li\u1EC7u\\DoAnCuoiKy\\E-Commerce Integratioin Service-DinhDucNguyenVu\\DimensionImport.dtsx [Design]",
+              "RelativeToolTip": "DimensionImport.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-09T07:18:05.903Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
